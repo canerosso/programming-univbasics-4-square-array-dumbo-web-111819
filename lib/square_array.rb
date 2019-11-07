@@ -2,6 +2,9 @@
 
 def square_array(array)
   # your code here
-  
+  j = 0
+         while(j<i){
+              System.out.println(arr[i]);
+              i++;
   
 end
