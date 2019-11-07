@@ -5,5 +5,5 @@ def square_array(array)
   while array[counter]
   
   newarray[counter] = array[counter]*array[counter]
-  
+  cou
 end
